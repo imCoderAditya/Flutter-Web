@@ -69693,7 +69693,7 @@ A.F3.prototype={
 I(a){var s=null,r=A.dB(30),q=A.dB(20),p=A.a([B.ar,B.ck],t._)
 return new A.eb(B.FC,A.lK(!1,r,!0,A.d_(s,A.eu(A.a([B.Gz,B.iB,A.dg("Whatsapp",s,s,A.ab(a).p3.ax.L6(B.h,B.a4,1.2))],t.p),B.L,B.dm,B.O),B.q,s,s,new A.cZ(s,s,s,q,B.hB,new A.fI(B.bb,B.aU,B.a0,p,s,s),B.a3),s,60,s,s,s,s,150),s,!0,s,s,s,s,s,s,s,s,s,new A.Xt(),s,s,s,s),s)}}
 A.Xt.prototype={
-$0(){A.jS(A.h7("https://api.whatsapp.com/send?6386407546",0,null))},
+$0(){A.jS(A.h7("https://wa.me/6386407546",0,null))},
 $S:0}
 A.Dc.prototype={
 I(a){var s=null
